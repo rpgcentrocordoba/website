@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /protected/
+Sitemap: http://www.rpgcentro.com/sitemap.xml
