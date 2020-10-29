@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Daniel Leguiza -- @danielleguiza
+
+# THANKS
+
+    juan -- @juanlllanes
+
+# TECHNOLOGY
+
+    HTML5, CSS3
+    jQuery,
